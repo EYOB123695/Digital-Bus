@@ -40,7 +40,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                 color: Colors.white,
               ),
               child: Text(
-                "ECOM",
+                "Digital Bus",
                 style: GoogleFonts.caveatBrush(
                   fontSize: 23,
                   fontWeight: FontWeight.w400,
